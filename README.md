@@ -1,2 +1,2 @@
-# toxic_speech_classification
+# Toxic Speech Classification
 Building several classifiers for toxic speech.
